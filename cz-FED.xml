@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InventoryFeed>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>200</condition>
+  <currency>EUR</currency>
+  <comment>Offer 1 for item 0</comment>
+  <id_offer>cz-FED-xml-d529676c26</id_offer>
+  <count>1</count>
+  <minimum_price>346821</minimum_price>
+  <handling_time>1</handling_time>
+  <price>346830</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>300</condition>
+  <currency>EUR</currency>
+  <comment>Offer 2 for item 0</comment>
+  <id_offer>cz-FED-xml-e3150fb1b6</id_offer>
+  <count>2</count>
+  <minimum_price>349239</minimum_price>
+  <handling_time>2</handling_time>
+  <price>349248</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>400</condition>
+  <currency>EUR</currency>
+  <comment>Offer 3 for item 0</comment>
+  <id_offer>cz-FED-xml-737ad2580b</id_offer>
+  <count>3</count>
+  <minimum_price>185368</minimum_price>
+  <handling_time>0</handling_time>
+  <price>185377</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>500</condition>
+  <currency>EUR</currency>
+  <comment>Offer 4 for item 0</comment>
+  <id_offer>cz-FED-xml-b3e9941c6f</id_offer>
+  <count>4</count>
+  <minimum_price>64957</minimum_price>
+  <handling_time>1</handling_time>
+  <price>64966</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>100</condition>
+  <currency>EUR</currency>
+  <comment>Offer 5 for item 0</comment>
+  <id_offer>cz-FED-xml-839b8555bd</id_offer>
+  <count>5</count>
+  <minimum_price>303452</minimum_price>
+  <handling_time>2</handling_time>
+  <price>303461</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>200</condition>
+  <currency>EUR</currency>
+  <comment>Offer 6 for item 0</comment>
+  <id_offer>cz-FED-xml-0d7ed4289c</id_offer>
+  <count>6</count>
+  <minimum_price>8993</minimum_price>
+  <handling_time>0</handling_time>
+  <price>9002</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>300</condition>
+  <currency>EUR</currency>
+  <comment>Offer 7 for item 0</comment>
+  <id_offer>cz-FED-xml-0c001634df</id_offer>
+  <count>7</count>
+  <minimum_price>217720</minimum_price>
+  <handling_time>1</handling_time>
+  <price>217729</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>400</condition>
+  <currency>EUR</currency>
+  <comment>Offer 8 for item 0</comment>
+  <id_offer>cz-FED-xml-3662c9f9cc</id_offer>
+  <count>8</count>
+  <minimum_price>170785</minimum_price>
+  <handling_time>2</handling_time>
+  <price>170794</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>500</condition>
+  <currency>EUR</currency>
+  <comment>Offer 9 for item 0</comment>
+  <id_offer>cz-FED-xml-83feaff08d</id_offer>
+  <count>9</count>
+  <minimum_price>316000</minimum_price>
+  <handling_time>0</handling_time>
+  <price>316009</price>
+ </Offer>
+ <Offer>
+  <ean>8719883667980</ean>
+  <condition>100</condition>
+  <currency>EUR</currency>
+  <comment>Offer 10 for item 0</comment>
+  <id_offer>cz-FED-xml-6a5257aa63</id_offer>
+  <count>10</count>
+  <minimum_price>484404</minimum_price>
+  <handling_time>1</handling_time>
+  <price>484413</price>
+ </Offer>
+</InventoryFeed>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InventoryCommand>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>200</condition>
+  <currency>EUR</currency>
+  <comment>Offer 1 for item 0</comment>
+  <id_offer>sk-CMD-xml-3aebf3f57e</id_offer>
+  <count>1</count>
+  <minimum_price>326925</minimum_price>
+  <handling_time>1</handling_time>
+  <price>326934</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>300</condition>
+  <currency>EUR</currency>
+  <comment>Offer 2 for item 0</comment>
+  <id_offer>sk-CMD-xml-0fece7a362</id_offer>
+  <count>2</count>
+  <minimum_price>232187</minimum_price>
+  <handling_time>2</handling_time>
+  <price>232196</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>400</condition>
+  <currency>EUR</currency>
+  <comment>Offer 3 for item 0</comment>
+  <id_offer>sk-CMD-xml-bd37d388ff</id_offer>
+  <count>3</count>
+  <minimum_price>2188</minimum_price>
+  <handling_time>0</handling_time>
+  <price>2197</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>500</condition>
+  <currency>EUR</currency>
+  <comment>Offer 4 for item 0</comment>
+  <id_offer>sk-CMD-xml-7d373b988e</id_offer>
+  <count>4</count>
+  <minimum_price>227519</minimum_price>
+  <handling_time>1</handling_time>
+  <price>227528</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>100</condition>
+  <currency>EUR</currency>
+  <comment>Offer 5 for item 0</comment>
+  <id_offer>sk-CMD-xml-706305398d</id_offer>
+  <count>5</count>
+  <minimum_price>353063</minimum_price>
+  <handling_time>2</handling_time>
+  <price>353072</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>200</condition>
+  <currency>EUR</currency>
+  <comment>Offer 6 for item 0</comment>
+  <id_offer>sk-CMD-xml-09f11a57c5</id_offer>
+  <count>6</count>
+  <minimum_price>156633</minimum_price>
+  <handling_time>0</handling_time>
+  <price>156642</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>300</condition>
+  <currency>EUR</currency>
+  <comment>Offer 7 for item 0</comment>
+  <id_offer>sk-CMD-xml-35a6d231fd</id_offer>
+  <count>7</count>
+  <minimum_price>157685</minimum_price>
+  <handling_time>1</handling_time>
+  <price>157694</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>400</condition>
+  <currency>EUR</currency>
+  <comment>Offer 8 for item 0</comment>
+  <id_offer>sk-CMD-xml-57ab8186f6</id_offer>
+  <count>8</count>
+  <minimum_price>65772</minimum_price>
+  <handling_time>2</handling_time>
+  <price>65781</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>500</condition>
+  <currency>EUR</currency>
+  <comment>Offer 9 for item 0</comment>
+  <id_offer>sk-CMD-xml-ad247b4857</id_offer>
+  <count>9</count>
+  <minimum_price>450718</minimum_price>
+  <handling_time>0</handling_time>
+  <price>450727</price>
+ </UPSERT>
+ <UPSERT>
+  <ean>8719883667980</ean>
+  <condition>100</condition>
+  <currency>EUR</currency>
+  <comment>Offer 10 for item 0</comment>
+  <id_offer>sk-CMD-xml-d36365295a</id_offer>
+  <count>10</count>
+  <minimum_price>101763</minimum_price>
+  <handling_time>1</handling_time>
+  <price>101772</price>
+ </UPSERT>
+</InventoryCommand>

@@ -1,0 +1,11 @@
+ean;condition;listing_price;currency;comment;id_offer;id_warehouse;count;minimum_price;id_shipping_group;handling_time
+8719883667980;200;104235;EUR;"Offer 1 for item 0";cz-FED-csv-ce7d36dec6;;1;104226;;1
+8719883667980;300;260873;EUR;"Offer 2 for item 0";cz-FED-csv-c2b3ca5367;;2;260864;;2
+8719883667980;400;168576;EUR;"Offer 3 for item 0";cz-FED-csv-660ce9e39b;;3;168567;;0
+8719883667980;500;121780;EUR;"Offer 4 for item 0";cz-FED-csv-f4c5fe8e86;;4;121771;;1
+8719883667980;100;373167;EUR;"Offer 5 for item 0";cz-FED-csv-418657e5f2;;5;373158;;2
+8719883667980;200;147409;EUR;"Offer 6 for item 0";cz-FED-csv-ead903ec2d;;6;147400;;0
+8719883667980;300;56620;EUR;"Offer 7 for item 0";cz-FED-csv-dbfa6a2a08;;7;56611;;1
+8719883667980;400;253422;EUR;"Offer 8 for item 0";cz-FED-csv-d3b141a325;;8;253413;;2
+8719883667980;500;367269;EUR;"Offer 9 for item 0";cz-FED-csv-a3c8c94f7a;;9;367260;;0
+8719883667980;100;196804;EUR;"Offer 10 for item 0";cz-FED-csv-090e20c0bf;;10;196795;;1
