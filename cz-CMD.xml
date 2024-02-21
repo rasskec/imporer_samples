@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <InventoryCommand>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450160980941</ean>
   <condition>200</condition>
-  <currency>EUR</currency>
-  <comment>Offer 1 for item 0</comment>
-  <id_offer>cz-CMD-xml-fb764aeb06</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 1 for item 453114794</comment>
+  <id_offer>cz-CMD-xml-eb86d7bcbb</id_offer>
   <count>1</count>
-  <minimum_price>320445</minimum_price>
+  <minimum_price>161962</minimum_price>
   <handling_time>1</handling_time>
-  <price>320454</price>
+  <price>161971</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450160961940</ean>
   <condition>300</condition>
-  <currency>EUR</currency>
-  <comment>Offer 2 for item 0</comment>
-  <id_offer>cz-CMD-xml-67780f8c0a</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 2 for item 453114816</comment>
+  <id_offer>cz-CMD-xml-a326133674</id_offer>
   <count>2</count>
-  <minimum_price>136937</minimum_price>
+  <minimum_price>464928</minimum_price>
   <handling_time>2</handling_time>
-  <price>136946</price>
+  <price>464937</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450160991190</ean>
   <condition>400</condition>
-  <currency>EUR</currency>
-  <comment>Offer 3 for item 0</comment>
-  <id_offer>cz-CMD-xml-d2fd244775</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 3 for item 453114818</comment>
+  <id_offer>cz-CMD-xml-978598ce5e</id_offer>
   <count>3</count>
-  <minimum_price>468881</minimum_price>
+  <minimum_price>446669</minimum_price>
   <handling_time>0</handling_time>
-  <price>468890</price>
+  <price>446678</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450117298051</ean>
   <condition>500</condition>
-  <currency>EUR</currency>
-  <comment>Offer 4 for item 0</comment>
-  <id_offer>cz-CMD-xml-ae18654f53</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 4 for item 451927408</comment>
+  <id_offer>cz-CMD-xml-7e4ff64c70</id_offer>
   <count>4</count>
-  <minimum_price>158182</minimum_price>
+  <minimum_price>123741</minimum_price>
   <handling_time>1</handling_time>
-  <price>158191</price>
+  <price>123750</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450117299706</ean>
   <condition>100</condition>
-  <currency>EUR</currency>
-  <comment>Offer 5 for item 0</comment>
-  <id_offer>cz-CMD-xml-4bc95e20b4</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 5 for item 451927423</comment>
+  <id_offer>cz-CMD-xml-95ceed338a</id_offer>
   <count>5</count>
-  <minimum_price>32991</minimum_price>
+  <minimum_price>152246</minimum_price>
   <handling_time>2</handling_time>
-  <price>33000</price>
+  <price>152255</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450117309061</ean>
   <condition>200</condition>
-  <currency>EUR</currency>
-  <comment>Offer 6 for item 0</comment>
-  <id_offer>cz-CMD-xml-7070d8f689</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 6 for item 451927624</comment>
+  <id_offer>cz-CMD-xml-b0d919b135</id_offer>
   <count>6</count>
-  <minimum_price>27438</minimum_price>
+  <minimum_price>242131</minimum_price>
   <handling_time>0</handling_time>
-  <price>27447</price>
+  <price>242140</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450117309573</ean>
   <condition>300</condition>
-  <currency>EUR</currency>
-  <comment>Offer 7 for item 0</comment>
-  <id_offer>cz-CMD-xml-de30780373</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 7 for item 451927811</comment>
+  <id_offer>cz-CMD-xml-b7104e3fee</id_offer>
   <count>7</count>
-  <minimum_price>82070</minimum_price>
+  <minimum_price>3843</minimum_price>
   <handling_time>1</handling_time>
-  <price>82079</price>
+  <price>3852</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450160982754</ean>
   <condition>400</condition>
-  <currency>EUR</currency>
-  <comment>Offer 8 for item 0</comment>
-  <id_offer>cz-CMD-xml-b569c362c9</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 8 for item 453114917</comment>
+  <id_offer>cz-CMD-xml-604d6b2c84</id_offer>
   <count>8</count>
-  <minimum_price>226779</minimum_price>
+  <minimum_price>333403</minimum_price>
   <handling_time>2</handling_time>
-  <price>226788</price>
+  <price>333412</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450117306992</ean>
   <condition>500</condition>
-  <currency>EUR</currency>
-  <comment>Offer 9 for item 0</comment>
-  <id_offer>cz-CMD-xml-25c35490bd</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 9 for item 451927983</comment>
+  <id_offer>cz-CMD-xml-b229194385</id_offer>
   <count>9</count>
-  <minimum_price>401742</minimum_price>
+  <minimum_price>96220</minimum_price>
   <handling_time>0</handling_time>
-  <price>401751</price>
+  <price>96229</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>7450161009177</ean>
   <condition>100</condition>
-  <currency>EUR</currency>
-  <comment>Offer 10 for item 0</comment>
-  <id_offer>cz-CMD-xml-9819c488dc</id_offer>
+  <currency>CZK</currency>
+  <comment>Offer 10 for item 453114760</comment>
+  <id_offer>cz-CMD-xml-2e210c927e</id_offer>
   <count>10</count>
-  <minimum_price>255388</minimum_price>
+  <minimum_price>9084</minimum_price>
   <handling_time>1</handling_time>
-  <price>255397</price>
+  <price>9093</price>
  </UPSERT>
 </InventoryCommand>

@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <InventoryCommand>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783442172191</ean>
   <condition>200</condition>
   <currency>EUR</currency>
-  <comment>Offer 1 for item 0</comment>
-  <id_offer>de-CMD-xml-77b2dc88ce</id_offer>
+  <comment>Offer 1 for item 43297121</comment>
+  <id_offer>de-CMD-xml-26205247f4</id_offer>
   <count>1</count>
-  <minimum_price>322722</minimum_price>
+  <minimum_price>204319</minimum_price>
   <handling_time>1</handling_time>
-  <price>322731</price>
+  <price>204328</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>5051794004038</ean>
   <condition>300</condition>
   <currency>EUR</currency>
-  <comment>Offer 2 for item 0</comment>
-  <id_offer>de-CMD-xml-45c2efd594</id_offer>
+  <comment>Offer 2 for item 43310371</comment>
+  <id_offer>de-CMD-xml-3bdda07f01</id_offer>
   <count>2</count>
-  <minimum_price>318795</minimum_price>
+  <minimum_price>278253</minimum_price>
   <handling_time>2</handling_time>
-  <price>318804</price>
+  <price>278262</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783888976797</ean>
   <condition>400</condition>
   <currency>EUR</currency>
-  <comment>Offer 3 for item 0</comment>
-  <id_offer>de-CMD-xml-704b1e7259</id_offer>
+  <comment>Offer 3 for item 43311401</comment>
+  <id_offer>de-CMD-xml-dbe26bf966</id_offer>
   <count>3</count>
-  <minimum_price>484227</minimum_price>
+  <minimum_price>297716</minimum_price>
   <handling_time>0</handling_time>
-  <price>484236</price>
+  <price>297725</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783442219247</ean>
   <condition>500</condition>
   <currency>EUR</currency>
-  <comment>Offer 4 for item 0</comment>
-  <id_offer>de-CMD-xml-8ab5393976</id_offer>
+  <comment>Offer 4 for item 43311551</comment>
+  <id_offer>de-CMD-xml-b0a298d472</id_offer>
   <count>4</count>
-  <minimum_price>220427</minimum_price>
+  <minimum_price>428936</minimum_price>
   <handling_time>1</handling_time>
-  <price>220436</price>
+  <price>428945</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783442830022</ean>
   <condition>100</condition>
   <currency>EUR</currency>
-  <comment>Offer 5 for item 0</comment>
-  <id_offer>de-CMD-xml-b2acbc699d</id_offer>
+  <comment>Offer 5 for item 43324621</comment>
+  <id_offer>de-CMD-xml-f3a9558dc4</id_offer>
   <count>5</count>
-  <minimum_price>472732</minimum_price>
+  <minimum_price>167542</minimum_price>
   <handling_time>2</handling_time>
-  <price>472741</price>
+  <price>167551</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783640606771</ean>
   <condition>200</condition>
   <currency>EUR</currency>
-  <comment>Offer 6 for item 0</comment>
-  <id_offer>de-CMD-xml-92911d4054</id_offer>
+  <comment>Offer 6 for item 43331431</comment>
+  <id_offer>de-CMD-xml-4942dc69a3</id_offer>
   <count>6</count>
-  <minimum_price>184569</minimum_price>
+  <minimum_price>295560</minimum_price>
   <handling_time>0</handling_time>
-  <price>184578</price>
+  <price>295569</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783896555151</ean>
   <condition>300</condition>
   <currency>EUR</currency>
-  <comment>Offer 7 for item 0</comment>
-  <id_offer>de-CMD-xml-ed434dabae</id_offer>
+  <comment>Offer 7 for item 43331621</comment>
+  <id_offer>de-CMD-xml-f18dd76993</id_offer>
   <count>7</count>
-  <minimum_price>38802</minimum_price>
+  <minimum_price>386586</minimum_price>
   <handling_time>1</handling_time>
-  <price>38811</price>
+  <price>386595</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783896554918</ean>
   <condition>400</condition>
   <currency>EUR</currency>
-  <comment>Offer 8 for item 0</comment>
-  <id_offer>de-CMD-xml-15a6fc9fe8</id_offer>
+  <comment>Offer 8 for item 43332351</comment>
+  <id_offer>de-CMD-xml-aecb3b082b</id_offer>
   <count>8</count>
-  <minimum_price>205299</minimum_price>
+  <minimum_price>69838</minimum_price>
   <handling_time>2</handling_time>
-  <price>205308</price>
+  <price>69847</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>4011324012064</ean>
   <condition>500</condition>
   <currency>EUR</currency>
-  <comment>Offer 9 for item 0</comment>
-  <id_offer>de-CMD-xml-8d8bee6c5a</id_offer>
+  <comment>Offer 9 for item 43333301</comment>
+  <id_offer>de-CMD-xml-906804884d</id_offer>
   <count>9</count>
-  <minimum_price>3417</minimum_price>
+  <minimum_price>494048</minimum_price>
   <handling_time>0</handling_time>
-  <price>3426</price>
+  <price>494057</price>
  </UPSERT>
  <UPSERT>
-  <ean>8719883667980</ean>
+  <ean>9783442219346</ean>
   <condition>100</condition>
   <currency>EUR</currency>
-  <comment>Offer 10 for item 0</comment>
-  <id_offer>de-CMD-xml-bdf135bb00</id_offer>
+  <comment>Offer 10 for item 43296851</comment>
+  <id_offer>de-CMD-xml-dfca50deee</id_offer>
   <count>10</count>
-  <minimum_price>19654</minimum_price>
+  <minimum_price>138378</minimum_price>
   <handling_time>1</handling_time>
-  <price>19663</price>
+  <price>138387</price>
  </UPSERT>
 </InventoryCommand>

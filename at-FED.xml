@@ -5,109 +5,109 @@
   <condition>200</condition>
   <currency>EUR</currency>
   <comment>Offer 1 for item 0</comment>
-  <id_offer>at-FED-xml-833120e188</id_offer>
+  <id_offer>at-FED-xml-83196b53cc</id_offer>
   <count>1</count>
-  <minimum_price>50503</minimum_price>
+  <minimum_price>177661</minimum_price>
   <handling_time>1</handling_time>
-  <price>50512</price>
+  <price>177670</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>300</condition>
   <currency>EUR</currency>
   <comment>Offer 2 for item 0</comment>
-  <id_offer>at-FED-xml-5f22b48778</id_offer>
+  <id_offer>at-FED-xml-e7b619c06a</id_offer>
   <count>2</count>
-  <minimum_price>207940</minimum_price>
+  <minimum_price>92893</minimum_price>
   <handling_time>2</handling_time>
-  <price>207949</price>
+  <price>92902</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>400</condition>
   <currency>EUR</currency>
   <comment>Offer 3 for item 0</comment>
-  <id_offer>at-FED-xml-2a00469803</id_offer>
+  <id_offer>at-FED-xml-7651668a24</id_offer>
   <count>3</count>
-  <minimum_price>466665</minimum_price>
+  <minimum_price>360987</minimum_price>
   <handling_time>0</handling_time>
-  <price>466674</price>
+  <price>360996</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>500</condition>
   <currency>EUR</currency>
   <comment>Offer 4 for item 0</comment>
-  <id_offer>at-FED-xml-26520b4129</id_offer>
+  <id_offer>at-FED-xml-b4942a87f1</id_offer>
   <count>4</count>
-  <minimum_price>12218</minimum_price>
+  <minimum_price>266244</minimum_price>
   <handling_time>1</handling_time>
-  <price>12227</price>
+  <price>266253</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>100</condition>
   <currency>EUR</currency>
   <comment>Offer 5 for item 0</comment>
-  <id_offer>at-FED-xml-092167bf06</id_offer>
+  <id_offer>at-FED-xml-9625f59279</id_offer>
   <count>5</count>
-  <minimum_price>177864</minimum_price>
+  <minimum_price>451743</minimum_price>
   <handling_time>2</handling_time>
-  <price>177873</price>
+  <price>451752</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>200</condition>
   <currency>EUR</currency>
   <comment>Offer 6 for item 0</comment>
-  <id_offer>at-FED-xml-c3d21b6129</id_offer>
+  <id_offer>at-FED-xml-1ebbbb7590</id_offer>
   <count>6</count>
-  <minimum_price>473385</minimum_price>
+  <minimum_price>232155</minimum_price>
   <handling_time>0</handling_time>
-  <price>473394</price>
+  <price>232164</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>300</condition>
   <currency>EUR</currency>
   <comment>Offer 7 for item 0</comment>
-  <id_offer>at-FED-xml-0b02498786</id_offer>
+  <id_offer>at-FED-xml-4342ace9b7</id_offer>
   <count>7</count>
-  <minimum_price>51086</minimum_price>
+  <minimum_price>216722</minimum_price>
   <handling_time>1</handling_time>
-  <price>51095</price>
+  <price>216731</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>400</condition>
   <currency>EUR</currency>
   <comment>Offer 8 for item 0</comment>
-  <id_offer>at-FED-xml-f7aa859f7a</id_offer>
+  <id_offer>at-FED-xml-444732c226</id_offer>
   <count>8</count>
-  <minimum_price>26736</minimum_price>
+  <minimum_price>163414</minimum_price>
   <handling_time>2</handling_time>
-  <price>26745</price>
+  <price>163423</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>500</condition>
   <currency>EUR</currency>
   <comment>Offer 9 for item 0</comment>
-  <id_offer>at-FED-xml-b13ecddb6e</id_offer>
+  <id_offer>at-FED-xml-d5c68f710c</id_offer>
   <count>9</count>
-  <minimum_price>16016</minimum_price>
+  <minimum_price>150727</minimum_price>
   <handling_time>0</handling_time>
-  <price>16025</price>
+  <price>150736</price>
  </Offer>
  <Offer>
   <ean>8719883667980</ean>
   <condition>100</condition>
   <currency>EUR</currency>
   <comment>Offer 10 for item 0</comment>
-  <id_offer>at-FED-xml-808763d4c5</id_offer>
+  <id_offer>at-FED-xml-fa47185102</id_offer>
   <count>10</count>
-  <minimum_price>272137</minimum_price>
+  <minimum_price>283235</minimum_price>
   <handling_time>1</handling_time>
-  <price>272146</price>
+  <price>283244</price>
  </Offer>
 </InventoryFeed>

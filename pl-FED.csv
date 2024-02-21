@@ -1,11 +1,11 @@
 ean;condition;listing_price;currency;comment;id_offer;id_warehouse;count;minimum_price;id_shipping_group;handling_time
-8719883667980;200;429438;EUR;"Offer 1 for item 0";pl-FED-csv-3f0359491c;;1;429429;;1
-8719883667980;300;332562;EUR;"Offer 2 for item 0";pl-FED-csv-c6e2ede50f;;2;332553;;2
-8719883667980;400;71230;EUR;"Offer 3 for item 0";pl-FED-csv-76e188ab28;;3;71221;;0
-8719883667980;500;371284;EUR;"Offer 4 for item 0";pl-FED-csv-a8325826fd;;4;371275;;1
-8719883667980;100;496635;EUR;"Offer 5 for item 0";pl-FED-csv-764c4eee19;;5;496626;;2
-8719883667980;200;85223;EUR;"Offer 6 for item 0";pl-FED-csv-8a6493740a;;6;85214;;0
-8719883667980;300;272572;EUR;"Offer 7 for item 0";pl-FED-csv-fe14954bcb;;7;272563;;1
-8719883667980;400;176924;EUR;"Offer 8 for item 0";pl-FED-csv-e1abbecc07;;8;176915;;2
-8719883667980;500;231136;EUR;"Offer 9 for item 0";pl-FED-csv-87ad8d7708;;9;231127;;0
-8719883667980;100;332463;EUR;"Offer 10 for item 0";pl-FED-csv-56f8f60006;;10;332454;;1
+0194252542330;200;461799;PLN;"Offer 1 for item 1";pl-FED-csv-cdb123305a;;1;461790;;1
+8720286446164;300;129743;PLN;"Offer 2 for item 2";pl-FED-csv-e54a977040;;2;129734;;2
+4004470043723;400;2048;PLN;"Offer 3 for item 3";pl-FED-csv-8ccff6ad41;;3;2039;;0
+8720286229583;500;69673;PLN;"Offer 4 for item 4";pl-FED-csv-1e4a4fddc1;;4;69664;;1
+5056416262995;100;86935;PLN;"Offer 5 for item 0";pl-FED-csv-ecc369ff1e;;5;86926;;2
+0194252542330;200;386494;PLN;"Offer 6 for item 1";pl-FED-csv-e39c8fcb0c;;6;386485;;0
+8720286446164;300;390891;PLN;"Offer 7 for item 2";pl-FED-csv-d126f876e2;;7;390882;;1
+4004470043723;400;283603;PLN;"Offer 8 for item 3";pl-FED-csv-7c75de3567;;8;283594;;2
+8720286229583;500;168804;PLN;"Offer 9 for item 4";pl-FED-csv-45e77d8563;;9;168795;;0
+5056416262995;100;435124;PLN;"Offer 10 for item 0";pl-FED-csv-fa4f81f6ce;;10;435115;;1

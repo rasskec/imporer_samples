@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <InventoryFeed>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783442172191</ean>
   <condition>200</condition>
   <currency>EUR</currency>
-  <comment>Offer 1 for item 0</comment>
-  <id_offer>de-FED-xml-64e2282431</id_offer>
+  <comment>Offer 1 for item 43297121</comment>
+  <id_offer>de-FED-xml-1098f0b739</id_offer>
   <count>1</count>
-  <minimum_price>266551</minimum_price>
+  <minimum_price>205176</minimum_price>
   <handling_time>1</handling_time>
-  <price>266560</price>
+  <price>205185</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>5051794004038</ean>
   <condition>300</condition>
   <currency>EUR</currency>
-  <comment>Offer 2 for item 0</comment>
-  <id_offer>de-FED-xml-e6b334c75d</id_offer>
+  <comment>Offer 2 for item 43310371</comment>
+  <id_offer>de-FED-xml-aef7b27b04</id_offer>
   <count>2</count>
-  <minimum_price>153865</minimum_price>
+  <minimum_price>323297</minimum_price>
   <handling_time>2</handling_time>
-  <price>153874</price>
+  <price>323306</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783888976797</ean>
   <condition>400</condition>
   <currency>EUR</currency>
-  <comment>Offer 3 for item 0</comment>
-  <id_offer>de-FED-xml-a3a4db6c91</id_offer>
+  <comment>Offer 3 for item 43311401</comment>
+  <id_offer>de-FED-xml-727db78f1b</id_offer>
   <count>3</count>
-  <minimum_price>306332</minimum_price>
+  <minimum_price>481672</minimum_price>
   <handling_time>0</handling_time>
-  <price>306341</price>
+  <price>481681</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783442219247</ean>
   <condition>500</condition>
   <currency>EUR</currency>
-  <comment>Offer 4 for item 0</comment>
-  <id_offer>de-FED-xml-7178c3f459</id_offer>
+  <comment>Offer 4 for item 43311551</comment>
+  <id_offer>de-FED-xml-80ac6d534f</id_offer>
   <count>4</count>
-  <minimum_price>21286</minimum_price>
+  <minimum_price>459260</minimum_price>
   <handling_time>1</handling_time>
-  <price>21295</price>
+  <price>459269</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783442830022</ean>
   <condition>100</condition>
   <currency>EUR</currency>
-  <comment>Offer 5 for item 0</comment>
-  <id_offer>de-FED-xml-a87a5a42a4</id_offer>
+  <comment>Offer 5 for item 43324621</comment>
+  <id_offer>de-FED-xml-1ac2a4ec95</id_offer>
   <count>5</count>
-  <minimum_price>374835</minimum_price>
+  <minimum_price>166991</minimum_price>
   <handling_time>2</handling_time>
-  <price>374844</price>
+  <price>167000</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783640606771</ean>
   <condition>200</condition>
   <currency>EUR</currency>
-  <comment>Offer 6 for item 0</comment>
-  <id_offer>de-FED-xml-948d96babf</id_offer>
+  <comment>Offer 6 for item 43331431</comment>
+  <id_offer>de-FED-xml-8e21dbb1c3</id_offer>
   <count>6</count>
-  <minimum_price>148278</minimum_price>
+  <minimum_price>406021</minimum_price>
   <handling_time>0</handling_time>
-  <price>148287</price>
+  <price>406030</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783896555151</ean>
   <condition>300</condition>
   <currency>EUR</currency>
-  <comment>Offer 7 for item 0</comment>
-  <id_offer>de-FED-xml-629da7d72a</id_offer>
+  <comment>Offer 7 for item 43331621</comment>
+  <id_offer>de-FED-xml-2ab169d987</id_offer>
   <count>7</count>
-  <minimum_price>299099</minimum_price>
+  <minimum_price>264410</minimum_price>
   <handling_time>1</handling_time>
-  <price>299108</price>
+  <price>264419</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783896554918</ean>
   <condition>400</condition>
   <currency>EUR</currency>
-  <comment>Offer 8 for item 0</comment>
-  <id_offer>de-FED-xml-50cb5ff0c0</id_offer>
+  <comment>Offer 8 for item 43332351</comment>
+  <id_offer>de-FED-xml-3d0bff86a1</id_offer>
   <count>8</count>
-  <minimum_price>96458</minimum_price>
+  <minimum_price>132433</minimum_price>
   <handling_time>2</handling_time>
-  <price>96467</price>
+  <price>132442</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>4011324012064</ean>
   <condition>500</condition>
   <currency>EUR</currency>
-  <comment>Offer 9 for item 0</comment>
-  <id_offer>de-FED-xml-c5a9684a71</id_offer>
+  <comment>Offer 9 for item 43333301</comment>
+  <id_offer>de-FED-xml-554898acf4</id_offer>
   <count>9</count>
-  <minimum_price>2644</minimum_price>
+  <minimum_price>93011</minimum_price>
   <handling_time>0</handling_time>
-  <price>2653</price>
+  <price>93020</price>
  </Offer>
  <Offer>
-  <ean>8719883667980</ean>
+  <ean>9783442219346</ean>
   <condition>100</condition>
   <currency>EUR</currency>
-  <comment>Offer 10 for item 0</comment>
-  <id_offer>de-FED-xml-5e11f36814</id_offer>
+  <comment>Offer 10 for item 43296851</comment>
+  <id_offer>de-FED-xml-fe62b80a7f</id_offer>
   <count>10</count>
-  <minimum_price>446903</minimum_price>
+  <minimum_price>148564</minimum_price>
   <handling_time>1</handling_time>
-  <price>446912</price>
+  <price>148573</price>
  </Offer>
 </InventoryFeed>

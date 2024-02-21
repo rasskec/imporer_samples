@@ -5,109 +5,109 @@
   <condition>200</condition>
   <currency>EUR</currency>
   <comment>Offer 1 for item 0</comment>
-  <id_offer>at-CMD-xml-b709d18951</id_offer>
+  <id_offer>at-CMD-xml-ed076e5a74</id_offer>
   <count>1</count>
-  <minimum_price>181249</minimum_price>
+  <minimum_price>379642</minimum_price>
   <handling_time>1</handling_time>
-  <price>181258</price>
+  <price>379651</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>300</condition>
   <currency>EUR</currency>
   <comment>Offer 2 for item 0</comment>
-  <id_offer>at-CMD-xml-632e7e165e</id_offer>
+  <id_offer>at-CMD-xml-ee58e75cd5</id_offer>
   <count>2</count>
-  <minimum_price>122172</minimum_price>
+  <minimum_price>418163</minimum_price>
   <handling_time>2</handling_time>
-  <price>122181</price>
+  <price>418172</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>400</condition>
   <currency>EUR</currency>
   <comment>Offer 3 for item 0</comment>
-  <id_offer>at-CMD-xml-2578ba5967</id_offer>
+  <id_offer>at-CMD-xml-7fab2d988d</id_offer>
   <count>3</count>
-  <minimum_price>343918</minimum_price>
+  <minimum_price>474146</minimum_price>
   <handling_time>0</handling_time>
-  <price>343927</price>
+  <price>474155</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>500</condition>
   <currency>EUR</currency>
   <comment>Offer 4 for item 0</comment>
-  <id_offer>at-CMD-xml-03107ddfdb</id_offer>
+  <id_offer>at-CMD-xml-938ab41a07</id_offer>
   <count>4</count>
-  <minimum_price>468239</minimum_price>
+  <minimum_price>178022</minimum_price>
   <handling_time>1</handling_time>
-  <price>468248</price>
+  <price>178031</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>100</condition>
   <currency>EUR</currency>
   <comment>Offer 5 for item 0</comment>
-  <id_offer>at-CMD-xml-d9afca0dfc</id_offer>
+  <id_offer>at-CMD-xml-ac566698da</id_offer>
   <count>5</count>
-  <minimum_price>477297</minimum_price>
+  <minimum_price>122146</minimum_price>
   <handling_time>2</handling_time>
-  <price>477306</price>
+  <price>122155</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>200</condition>
   <currency>EUR</currency>
   <comment>Offer 6 for item 0</comment>
-  <id_offer>at-CMD-xml-76d0aeaf2f</id_offer>
+  <id_offer>at-CMD-xml-3ed6626416</id_offer>
   <count>6</count>
-  <minimum_price>424981</minimum_price>
+  <minimum_price>453335</minimum_price>
   <handling_time>0</handling_time>
-  <price>424990</price>
+  <price>453344</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>300</condition>
   <currency>EUR</currency>
   <comment>Offer 7 for item 0</comment>
-  <id_offer>at-CMD-xml-5bade99c82</id_offer>
+  <id_offer>at-CMD-xml-2cc84eb824</id_offer>
   <count>7</count>
-  <minimum_price>279003</minimum_price>
+  <minimum_price>67627</minimum_price>
   <handling_time>1</handling_time>
-  <price>279012</price>
+  <price>67636</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>400</condition>
   <currency>EUR</currency>
   <comment>Offer 8 for item 0</comment>
-  <id_offer>at-CMD-xml-1e85cfafb0</id_offer>
+  <id_offer>at-CMD-xml-66f658beec</id_offer>
   <count>8</count>
-  <minimum_price>336698</minimum_price>
+  <minimum_price>218909</minimum_price>
   <handling_time>2</handling_time>
-  <price>336707</price>
+  <price>218918</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>500</condition>
   <currency>EUR</currency>
   <comment>Offer 9 for item 0</comment>
-  <id_offer>at-CMD-xml-57a8eec1b3</id_offer>
+  <id_offer>at-CMD-xml-02eeaa0509</id_offer>
   <count>9</count>
-  <minimum_price>475055</minimum_price>
+  <minimum_price>399690</minimum_price>
   <handling_time>0</handling_time>
-  <price>475064</price>
+  <price>399699</price>
  </UPSERT>
  <UPSERT>
   <ean>8719883667980</ean>
   <condition>100</condition>
   <currency>EUR</currency>
   <comment>Offer 10 for item 0</comment>
-  <id_offer>at-CMD-xml-fbbe8939d8</id_offer>
+  <id_offer>at-CMD-xml-906aafa616</id_offer>
   <count>10</count>
-  <minimum_price>447662</minimum_price>
+  <minimum_price>153223</minimum_price>
   <handling_time>1</handling_time>
-  <price>447671</price>
+  <price>153232</price>
  </UPSERT>
 </InventoryCommand>
